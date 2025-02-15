@@ -4,6 +4,11 @@
 
 
 
+This is my personal notes: 
+
+[[Economics homework\|Economics homework]]
+
+
 
 
 Week 2: 
