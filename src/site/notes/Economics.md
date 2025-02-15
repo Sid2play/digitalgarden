@@ -21,11 +21,17 @@ Economic problem :
 	- Resources are scarce, limiting the resources needed for our wants 
 	As all our wants can not be satisfied, we have to choose between them 
 	Which results in ranking our preferences - we choose our highest preference wants, leaving others unsatisfied
+	
 	1)  Due to limited resources, an economy must determine which goods and services will be produced to satisfy the most pressing wants. 
+		
 	2) To prevent waste and ensure the best use of resources, an economy must carefully decide how much of each good or service to produce. 
+		
 	3) The production process should be as efficient as possible to maximize output while using the least amount of resources. 
+		
 	4) An economy must determine how to distribute goods and services, balancing fairness and efficiency based on income levels.
 
+Opportunity cost:
+- Opportunity cost refers to the value of the next best alternative that you give up when making a decision. Since resources (like time, money) are limited, choosing one option means sacrificing others.
 
 1.2
 The production possibility frontier :
