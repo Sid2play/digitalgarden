@@ -40,11 +40,13 @@ possibility frontier and answer the following questions.
 			- therell be 1.67 units of beef per tea being produced 
 
 9) Identify the kinds of opportunity costs that the government might face in attempting to satisfy community wants.
-	- 
+	a) Allocating resources between healthcare, education, and infrastructure
+	b) Choosing between short-term economic stimulus and long-term investments.
+	c) Balancing social welfare programs with economic growth policies
 
 10) Define the following terms:
-
-	a -  consumer goods:
-		
-	b -  capital goods.:
-		
+	a -  Consumer goods:
+		Goods bought and used by consumers 
+	
+	b -  Capital goods.:
+		Goods that are used in producing other goods, which is then sold to consumers 
