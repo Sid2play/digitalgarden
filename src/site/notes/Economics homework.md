@@ -50,3 +50,19 @@ possibility frontier and answer the following questions.
 	
 	b -  Capital goods.:
 		Goods that are used in producing other goods, which is then sold to consumers 
+
+Week 3:
+Chapter 2 review questions: 
+1)  Outline THREE economic factors that may cause people to increase their level of saving.
+	- Level of income
+	- Future plans
+	- Change in interest rates or change in economic policies 
+
+2) Describe how each of the following business strategies could maximise business profits:
+	-  raising the selling price
+	-  lowering the selling price
+	-  purchasing more efficient capital goods
+	- offering higher salaries to staff.
+
+
+3) Identify TWO examples of business activities that the government may wish to encourage, and TWO business activities the government may want to discourage or ban altogether.
