@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/economics-homework/"}
 ---
 
-[[Economics\|Economics]]
 
 
 Week 2: 
